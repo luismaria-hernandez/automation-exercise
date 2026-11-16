@@ -1,0 +1,4 @@
+
+Esto es solo un archivo de prueba en texto plano
+Todo lo que vayamos a escribir aquí 
+Tiene el único propósito de servir de prueba.

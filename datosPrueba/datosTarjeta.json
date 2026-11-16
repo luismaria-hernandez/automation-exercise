@@ -1,0 +1,9 @@
+{
+    "tarjeta": {
+        "nameOnCard": "Cosme Fulanito",
+        "cardNumber": "123456789",
+        "cvc": "123",
+        "expirationMonth": "03",
+        "expirationYear": "2030"
+    }
+}

@@ -1,0 +1,35 @@
+{
+  "usaurios":
+  {
+      "username": "usuario1",
+      "email": "usuario1@test.com"
+  },
+
+  "usuariosRegistrados": 
+    {
+      "email": "testmail492324@test.com",
+      "password": "clave1234"
+    },
+  
+    "datosFormulario":
+    {
+      "name": "nombreUsuario",
+      "email": "nombreUsuario@test.com",
+      "subject": "Solicito Información",
+      "message": "Lorem ipsum dolor est"
+    },
+
+    "datosRegistro": 
+    {
+      "password": "clave1234",
+      "name": "Test",
+      "lastname": "Data",
+      "company": "Company01",
+      "address1": "address1",
+      "address2": "address2",
+      "state": "state1",
+      "city": "city1",
+      "zip": "4568",
+      "mobile": "12345678"
+    }
+}
